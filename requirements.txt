@@ -4,4 +4,3 @@ matplotlib
 seaborn
 scipy
 h5py
-acor
