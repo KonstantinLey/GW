@@ -1,6 +1,3 @@
 numpy
 lalsuite
 matplotlib
-seaborn
-scipy
-h5py
